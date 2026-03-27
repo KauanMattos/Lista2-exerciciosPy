@@ -10,3 +10,4 @@ salario_liquido = salario_bruto - inss - ir
 
 print(f"Valor final a ser pago: {salario_liquido:.2f} R$")
 
+url_fluxograma = "https://drive.google.com/file/d/11PxImYuKZxOALBeggQ3eQgmLH9hXboSi/view?usp=sharing"
