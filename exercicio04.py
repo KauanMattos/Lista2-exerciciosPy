@@ -1,4 +1,4 @@
-# Uma empresa contrata um pedreiro com a diária de R$150,00. 
+# 4.Uma empresa contrata um pedreiro com a diária de R$150,00. 
 # Crie um Algoritmo que leia a quantidade de dias trabalhados e logo depois exiba o valor 
 # a ser pago com o desconto de 7% do INSS e 15% do IR
 

@@ -1,8 +1,8 @@
-# Crie um Algoritmo que leia o valor em real e a cotação do dólar. Logo
+# 2.Crie um Algoritmo que leia o valor em real e a cotação do dólar. Logo
 # depois, escreva o valor correspondente em dólares. 
 
-valor_real = float(input("Digite o valor (R$): "))
-cotacao_dolar = 5.24
+valor_real = float(input("Digite o valor: R$"))
+cotacao_dolar = float(input("Digite a cotação do dolar: R$"))
 valor_dolar = valor_real / cotacao_dolar
 
 print(f"Valor correspondente em dólares: {valor_dolar:.2f} $")

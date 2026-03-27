@@ -1,4 +1,4 @@
-# Crie um Algoritmo que leia o preço do combustível e o valor a ser
+# 3.Crie um Algoritmo que leia o preço do combustível e o valor a ser
 # abastecido. Logo depois, exiba a quantidade de litros.
 
 preco_combustivel = float(input("Inserir preço do combustível: R$ "))
