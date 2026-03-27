@@ -1,3 +1,6 @@
+# 10.Crie um algoritmo que leia: Valor do produto e a Quantidade de parcelas.
+# Considere juros de 2% ao mês e exiba o valor total a pagar
+
 valor_produto = float(input("Insira o valor do produto: R$"))
 quantidade_parcelas = float(input("Insira a quantidade de parcelas: "))
 juros = valor_produto * 0.02 * quantidade_parcelas
